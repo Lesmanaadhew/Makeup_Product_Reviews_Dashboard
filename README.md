@@ -33,8 +33,8 @@ The datasets from the link above consist of two parts.
     - reviews_1250-3nd.csv
 
 _Notes:_
-- _Since GitHub has upload size limitation, the raw datasets can only be downloaded from Kaggle through the link above._
-- _For altering the dashboard in Power BI read the `dashboard_alteration.txt` inside the `3_dashboard` folder [here](3_dashboard\dashboard_alteration.txt)_
+- _Since GitHub has an upload size limitation, the raw datasets can only be downloaded from Kaggle through the link above._
+- _For altering the dashboard in Power BI, read the `dashboard_alteration.txt` inside the `3_dashboard` folder [here](3_dashboard\dashboard_alteration.txt)_
 
 ### b. Tools and software
 
