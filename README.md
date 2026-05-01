@@ -2,7 +2,8 @@
 
 ### _Preview_
 
-_Please wait for the preview to showup_. <br> _The dashboard `.pbix` file can be accessed in [here](3_dashboard\makeup_dashboard.pbix)_
+_Please wait for the preview to showup_. <br> _The dashboard `.pbix` file can be accessed in [here](3_dashboard\)_
+
 ![dashboard overview](_readme_attachments/0_sephora_makeup_review_dashboard.gif)
 
 # A. Introduction
