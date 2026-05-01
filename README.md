@@ -2,7 +2,7 @@
 
 ### _Preview_
 
-_Please wait for the preview to showup_. <br> _The dashboard `.pbix` file can be accessed in [here](2_notebook/makeup_cleaning.ipynb)_
+_Please wait for the preview to showup_. <br> _The dashboard `.pbix` file can be accessed in [here](2_notebook\makeup_cleaning.ipynb)_
 ![dashboard overview](_readme_attachments/0_sephora_makeup_review_dashboard.gif)
 
 # A. Introduction
@@ -56,7 +56,7 @@ Here are several key questions that need to be addressed to create a functional 
 
 The datasets need to be cleaned before it's visualized in Power BI. Since the raw datasets include information and reviews of all cosmetics and beauty products, they need to be cleaned to retain only makeup products. The following are several key data cleaning steps that I used to clean the datasets.
 
-_Note: the full data cleaning notebook can be accessed through [2_notebook](2_notebook) folder or my [Kaggle code](https://www.kaggle.com/code/lesmanaadhew/data-cleaning-sephora-makeup-product-reviews)_
+_Note: the full data cleaning notebook can be accessed through [2_notebook](2_notebook/makeup_cleaning.ipynb) folder or my [Kaggle code](https://www.kaggle.com/code/lesmanaadhew/data-cleaning-sephora-makeup-product-reviews)_
 
 ## 1. Product Dataset
 
