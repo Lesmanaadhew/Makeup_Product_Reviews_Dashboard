@@ -1,0 +1,6 @@
+DASHBOARD ALTERATION
+
+Inside the Power Query Editor, change the `folder_path` parameter into your 1_source_dashboard folder path.
+
+Change this: C:\Users\Lesmana\Documents\GitHub\Portfolio_Project\Makeup_Product_Reviews_Dashboard\1_source_dashboard\
+Into yours, example: C:\Users\YourPcName\Download\Makeup_Product_Reviews_Dashboard\1_source_dashboard\
