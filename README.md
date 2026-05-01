@@ -114,7 +114,7 @@ df_prod['ingredients_clean'] = df_prod['ingredients_clean'].replace(r", ", "', '
 df_prod['ingredients_clean'] = "['" + df_prod['ingredients_clean'] + "']"
 ```
 
-The result after above step: <br>
+The result after the above step: <br>
 ![Product: ingredients result 1](_readme_attachments/1_prod_ing_after_1.png)
 
 It still has uncleaned `Water` values. The following are the code used to clean the `Water` values.
